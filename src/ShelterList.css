@@ -1,0 +1,26 @@
+/* src/ShelterList.css */
+.shelter-list-container {
+    max-width: 800px;
+    margin: 50px auto;
+  }
+  
+  .shelter-list-container h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .shelter-card {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .shelter-card h4 {
+    margin-top: 0;
+  }
+  
+  .shelter-card p {
+    margin: 5px 0;
+  }
